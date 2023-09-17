@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JamalCreates
 - 👀 I’m an indie game developer
-- 🌱 I’m currently learning Unity engine and Godot
+- 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
